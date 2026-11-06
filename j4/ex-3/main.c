@@ -1,0 +1,18 @@
+{
+  "program_name": "Compte à rebours",
+  "instructions": [
+    {"name": "add", "register": "cursor", "value": 0},
+    {"name": "add", "register": "storage", "value": 5},
+    {"name": "write"},
+    {"name": "add", "register": "storage", "value": -1},
+    {"name": "write"},
+    {"name": "add", "register": "storage", "value": -1},
+    {"name": "write"},
+    {"name": "add", "register": "storage", "value": -1},
+    {"name": "write"},
+    {"name": "add", "register": "storage", "value": -1},
+    {"name": "write"},
+    {"name": "add", "register": "storage", "value": -1},
+    {"name": "write"}
+  ]
+}

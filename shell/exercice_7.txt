@@ -1,0 +1,1 @@
+cp black_widow.txt avengers/ && cp wonder_woman.txt justice_league/

@@ -1,0 +1,5 @@
+touch marvel/black_window.txt 
+echo "Natasha Romanov >> black_window.txt
+
+touch dc/wonder_woman.txt 
+echo"Diane Prince" >> wonder_woman.txt

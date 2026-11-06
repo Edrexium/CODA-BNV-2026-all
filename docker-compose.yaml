@@ -1,0 +1,8 @@
+services:
+  c-env:
+    build: .
+    container_name: coda-bnv-2026
+    volumes:
+      - .:/workspace
+    stdin_open: true
+    tty: true
